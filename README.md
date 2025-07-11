@@ -1,6 +1,6 @@
 # Magic Kit Mod – Minecraft Forge Mod (1.20.1+)
 
-📹 Demo video: [https://youtu.be/your_demo_video_link_here](https://youtu.be/p1IF7ifN24A)
+📹 Demo video: [Magic Kit Mod](https://youtu.be/p1IF7ifN24A)
 
 A functional magic-themed mod for Minecraft Forge 1.20.1+, written entirely in Java. This mod includes a fully working Magic Wand with multiple spells and a Wizard Armor Set using vanilla Minecraft textures.
 

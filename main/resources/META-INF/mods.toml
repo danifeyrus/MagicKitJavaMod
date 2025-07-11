@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)" # для Forge 1.20.1+
+license="MIT"
+
+[[mods]]
+modId="kitmod"
+version="1.0.0"
+displayName="Magic Kit Mod"
+authors="danik"
+description='''
+Adds a Magic Kit with a wand, wizard outfit, broom and throwable magic pouches.
+'''
+
+[[dependencies.kitmod]]
+modId="forge"
+mandatory=true
+versionRange="[47.0.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.kitmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

@@ -1,5 +1,3 @@
-
-Set-Content -Encoding UTF8 README.md @"
 # Magic Kit Mod – Minecraft Forge Mod (1.20.1+)
 
 📹 Demo video: [https://youtu.be/your_demo_video_link_here](https://youtu.be/p1IF7ifN24A)
@@ -102,4 +100,4 @@ This mod demonstrates:
 - Use of Forge lifecycle and registration
 - Multiplayer-safe effects
 - Clean Java architecture using only standard assets
-"@
+
